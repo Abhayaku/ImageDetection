@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551455631160",
+    "firebase_url": "https://imagedetection-53786.firebaseio.com",
+    "project_id": "imagedetection-53786",
+    "storage_bucket": "imagedetection-53786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551455631160:android:23dbc5a77d34abaae803cd",
+        "android_client_info": {
+          "package_name": "com.imagedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551455631160-bodmc1pvc1rqh2524lrjk3ptii3ghdo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuWyMVjznJXRJ1r4x8QScxQlhLSXSAIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551455631160-bodmc1pvc1rqh2524lrjk3ptii3ghdo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
